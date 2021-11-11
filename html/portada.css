@@ -1,0 +1,68 @@
+body<!--fondo de pantalla--> {
+	background-color: silver;
+	color: blue;
+
+}
+
+h1 {
+	text-align: left;
+	font-family: Ginebra;
+	 border:2px solid blue; 
+	 padding:99px;}
+	
+
+
+
+	p {
+		margin-left: 80px;
+		font-size: 14pt;
+		color: green;}
+
+		a:link {
+			color: blue; }
+
+			a:visited {
+				color: purple; }
+
+div{
+   background-color: orange;
+	 color: red;
+
+}
+
+span{
+	color: pink;
+	 text-shadow: 2px 2px 5px purple ;
+	 text-decoration: underline
+
+}
+
+
+marron {
+	color:brown;
+ background-color: pink; }
+
+
+
+p.smallcaps { 
+	font-variant: -caps; }
+
+
+table, th, td {
+	padding:30px;
+  border: 1px solid red;
+  border-collapse: collapse;
+  border-spacing:30px;
+}
+
+tr:nth-child(even){
+background-color:pink;
+}
+
+form{
+	bordere-radius:;
+}
+
+
+
+

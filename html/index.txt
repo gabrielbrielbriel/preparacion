@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<title>HTML Tutorial</title>
+<body>
+
+<h1>Hola</h1>
+<h2>Guito me trata mal</h2>
+<h3>David es un chupa pollas</h3>
+<h4>Martin le pega a la hermana</h4>
+<p>Buenas tardes</p>
+
+</body>
+</html>

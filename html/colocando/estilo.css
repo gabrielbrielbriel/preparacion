@@ -1,0 +1,18 @@
+body{ margin:10%;  
+	background-color: lightgreen;
+	color: blue;}
+
+#marron {text-transform:uppercase;
+         color :brown;
+         margin:30%;
+     }
+img {
+	padding:10px;
+	float:left;
+}
+.colocar{clear:right;}
+
+.flotar {
+	float: right;
+	padding:20px;
+}
